@@ -1,0 +1,287 @@
+body{
+    height: 1180px;
+    width: 99%;
+    background-color: rgb(253, 233, 233);
+}
+
+nav{
+    display: flex;
+    justify-content: end;
+    height: 80px;
+    width: 100%;
+    background-color: red;
+}
+
+ul{
+    display: flex;
+    list-style-type: none;
+    width: 90%;
+    justify-content: space-around;
+    padding: 10px;
+}
+
+li a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+}
+
+li a:hover{
+    color: yellow;
+    cursor: pointer;
+}
+
+input{
+    position: relative;
+    width: 200px;
+    height: 35px;
+}
+
+.bg-pic{
+    display: flex;
+}
+
+.rectang{
+    margin-top: 70px;
+    margin-left: 405px;
+    height: 70px;
+    width: 621px;
+    background-color: rgb(218, 2, 2);
+}
+
+.admin{
+    margin-top: -54px;
+    margin-left: 620px;
+    color: white;
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+.tain{
+    height: 40%;
+    width: 41%;
+    background-color: rgb(254, 243, 243);
+    margin-left: 405px;
+    margin-top: -15px;
+    border-right: solid;
+    border-left: solid;
+    border-bottom: solid;
+    border-color: red;
+}
+
+
+.hh{
+    width: 350px;
+    height: 45px;
+    font-size: large;
+    margin-left: 610px;
+    margin-top: -440px;
+    padding-left: 10px;
+}
+
+.dsds{
+    margin-left: -75px;
+    margin-top: -400px;
+}
+
+
+.cdcd{
+    margin-left: 535px;
+    margin-top: 45px;
+}
+
+.bb{
+    width: 340px;
+    height: 45px; 
+    font-size: large;
+    padding-left: 10px;
+}
+
+.checkbox{
+    margin-left: 268px;
+    margin-top: 20px;
+    height: 20px;
+    width: 20px;
+}
+
+.rem{
+    margin-left: 565px;
+    margin-top: 2px;
+    color: rgb(7, 7, 103);
+}
+
+.create{
+    width: 210px;
+    height: 43px;
+    font-size: medium;
+    margin-top: 60px;
+    margin-left: 620px;
+    color: white;
+    background-color: red;
+    border: none;
+}
+
+.te{
+    margin-left: 620px;
+    margin-top: 15px;
+    color: rgb(7, 7, 103);
+}
+
+.sep{
+    color:red;
+    margin-left: 775px;
+    margin-top: -18px;
+}
+
+.signn{
+    text-decoration: none;
+}
+/* ================================ Footer Last container ======================= */
+.box-5{
+    background-color: rgb(212, 10, 10);
+    height: 430px;
+    width: 100%;
+    margin-top: 100px;
+  }
+/* ======Footer contents====== */
+.foot{
+    padding-top: 28px;
+    padding-left: 115px;
+}
+  
+.map{
+    color: white;
+    padding-left: 10px;
+    padding-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a:hover{
+    color: yellow;
+    cursor: pointer;
+}
+  
+a{
+    text-decoration: none;
+    color: white;
+}
+.ome{
+    color: white;
+    margin-top: -7px;
+    margin-right: 100px;
+    padding-left: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+  
+.become{
+    color: white;
+    margin-top: 9px;
+    margin-right: 100px;
+    padding-left: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+  
+.about{
+    color: white;
+    margin-top: 15px;
+    margin-right: 100px;
+    padding-left: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+  
+.organi{
+    color: white;
+    margin-left: 240px;
+    margin-top: -195px;
+    padding-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+  
+.serv{
+    color: white;
+    margin-left: 240px;
+    margin-top: -37px;
+    padding-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+  
+.process{
+    color: white;
+    margin-left: 240px;
+    margin-top: -27px;
+    padding-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+  
+.contac{
+    color: white;
+    margin-left: 490px;
+    margin-top: -156px;
+    padding-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+  
+.call{
+    color: white;
+    margin-left: 490px;
+    margin-top: -37px;
+    padding-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+  
+.email-us{
+    color: white;
+    margin-left: 490px;
+    margin-top: -26px;
+    padding-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+  
+.whatsapp{
+    color: white;
+    margin-left: 490px;
+    margin-top: -19px;
+    padding-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+  
+.sub{
+  
+    margin-top: -156px;
+    margin-left: 990px;
+    padding-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+  
+.emails{
+    width: 258px;
+    height: 41px;
+}
+  
+.subscribe {
+       
+    width: 264px;
+    height: 44px;
+    color: white;
+    background-color: red;
+    border: none;
+    margin-top: 10px;
+}
+  
+.last-logo{
+    display: flex;
+    margin-top: 77px;
+    margin-left: -980px;
+}
+  
+.socialdo{
+    display: flex;
+    color: white;
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: -50px;
+    margin-left: -730px;
+}
+
+

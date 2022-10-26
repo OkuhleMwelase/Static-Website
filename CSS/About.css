@@ -1,0 +1,268 @@
+body{
+    height: 100%;
+    width: 99%;
+    background-color: rgb(253, 233, 233);
+    
+}
+
+#the-paragraphs{
+  text-align: justify;
+  font-size: 14pt;
+  font-weight: medium;
+  color: black;
+}
+
+nav{
+    display: flex;
+    justify-content: end;
+    height: 80px;
+    width: 100%;
+    background-color: red;
+}
+
+ul{
+    display: flex;
+    list-style-type: none;
+    width: 90%;
+    justify-content: space-around;
+    padding: 10px;
+}
+
+li a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+}
+
+li a:hover{
+    color: yellow;
+    cursor: pointer;
+}
+
+input{
+    position: relative;
+    width: 200px;
+    height: 35px;
+}
+/* ===Background photo=== */
+.bg-pic{
+    display: flex;
+}
+/* ======Heading====== */
+.first-heading{
+    color: red;
+    margin-top: 60px;
+    margin-left: 160px;
+    font-size: x-large;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* ==Second Heading== */
+.suma{
+    font-size: xx-large;
+    color: red;
+    font-weight: medium;
+    margin-left: 160px;
+    margin-top: 50px;
+    padding-right: 150px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* == the paragraphs == */
+.summary{
+    margin-top: 60px;
+    margin-left: 160px;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* == Main Picture == */
+.first-photo{
+    display: flex;
+    margin-top: 70px;
+    margin-left: 160px;
+}
+/* == Second Heading == */
+.vision-head{
+    margin-top: 60px;
+    margin-left: 160px;
+    font-size: xx-large;
+    font-weight: medium;
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* == Content under second heading == */
+.vision{
+    margin-top: 30px;
+    margin-left: 160px;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    text-align: justify;
+}
+/* == Third Heading == */
+.mission-head{
+    margin-top: 50px;
+    margin-left: 160px;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+}
+/* == Content under third heading == */
+.mission{
+    margin-top: 30px;
+    margin-left: 160px;
+    font-weight: medium;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    text-align: justify;
+}
+
+/* ====================================================Footer, Fifth container========================================================= */
+
+.box-5{
+    background-color: rgb(212, 10, 10);
+    height: 439px;
+    width: 1505px;
+    margin-top: 19px;
+  }
+  
+  .foot{
+    padding-top: 28px;
+    padding-left: 100px;
+  }
+  
+  .map{
+    color: white;
+    padding-left: 10px;
+    padding-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  a:hover{
+    color: yellow;
+    cursor: pointer;
+  }
+  
+   a{
+    text-decoration: none;
+    color: white;
+   }
+  
+  .ome{
+    color: white;
+    margin-top: -7px;
+    margin-right: 100px;
+    padding-left: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .become{
+    color: white;
+    margin-top: 9px;
+    margin-right: 100px;
+    padding-left: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .about{
+    color: white;
+    margin-top: 15px;
+    margin-right: 100px;
+    padding-left: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .organi{
+    color: white;
+    margin-left: 240px;
+    margin-top: -195px;
+    padding-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .serv{
+    color: white;
+    margin-left: 240px;
+    margin-top: -37px;
+    padding-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .process{
+    color: white;
+    margin-left: 240px;
+    margin-top: -27px;
+    padding-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .contac{
+    color: white;
+    margin-left: 490px;
+    margin-top: -156px;
+    padding-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .call{
+    color: white;
+    margin-left: 490px;
+    margin-top: -37px;
+    padding-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .email-us{
+    color: white;
+    margin-left: 490px;
+    margin-top: -26px;
+    padding-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .whatsapp{
+    color: white;
+    margin-left: 490px;
+    margin-top: -19px;
+    padding-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .sub{
+  
+    margin-top: -156px;
+    margin-left: 990px;
+    padding-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+  }
+  
+  .emails{
+    width: 258px;
+    height: 41px;
+  }
+  
+  .subscribe {
+       
+    width: 265px;
+    height: 41px;
+    color: white;
+    background-color: red;
+    border: none;
+    margin-top: 10px;
+  }
+  
+  .last-logo{
+    display: flex;
+    margin-top: 80px;
+    margin-left: -980px;
+  }
+  
+  .socialdo{
+    display: flex;
+    color: white;
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: -50px;
+    margin-left: -730px;
+  }

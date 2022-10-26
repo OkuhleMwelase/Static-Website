@@ -1,0 +1,306 @@
+body{
+    height: 100%;
+    width: 99%;
+    background-color: rgb(253, 233, 233);
+}
+
+nav{
+    display: flex;
+    justify-content: end;
+    height: 80px;
+    width: 100%;
+    background-color: red;
+}
+
+ul{
+    display: flex;
+    list-style-type: none;
+    width: 90%;
+    justify-content: space-around;
+    padding: 10px;
+}
+
+li a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+}
+
+li a:hover{
+    color: yellow;
+    cursor: pointer;
+}
+
+input{
+    position: relative;
+    width: 200px;
+    height: 35px;
+}
+
+.bg-pic{
+    display: flex;
+}
+.rectang{
+    margin-top: 60px;
+    margin-left: 405px;
+    height: 70px;
+    width: 621px;
+    background-color: rgb(218, 2, 2);
+}
+
+.log{
+    font-size: 55px;
+    margin-left: 660px;
+    margin-top: -70px;
+    color: white;
+}
+
+.tain{
+    height: 560px;
+    width: 41%;
+    background-color: rgb(254, 243, 243);
+    margin-left: 405px;
+    margin-top: 7px;
+    border-right: solid;
+    border-left: solid;
+    border-bottom: solid;
+    border-color: red;
+}
+
+.hg{
+    margin-top: -530px;
+    margin-left: 540px;
+}
+
+.wsd{
+    margin-left: 540px;
+    margin-top: 20px;
+}
+
+.bgbg{
+    margin-left: 535px;
+    margin-top: 40px;
+}
+
+.hh{
+    width: 350px;
+    height: 45px; 
+}
+
+
+.cdcd{
+    margin-left: 535px;
+    margin-top: 45px;
+}
+
+.bb{
+    width: 350px;
+    height: 45px; 
+}
+
+.create{
+    width: 210px;
+    height: 43px;
+    font-size: medium;
+    margin-top: 50px;
+    margin-left: 620px;
+    color: white;
+    background-color: red;
+    border: none;
+    text-decoration: none;
+}
+
+.te{
+    margin-left: 620px;
+    margin-top: 15px;
+}
+
+.sep{
+    color:red;
+    margin-left: 775px;
+    margin-top: -18px;
+}
+
+.sep1{
+    text-decoration: none;
+}
+
+/* ====================================================Footer, Fifth container========================================================= */
+
+.box-5{
+    background-color: rgb(212, 10, 10);
+    height: 439px;
+    width: 1505px;
+    margin-top: 120px;
+  }
+  
+  .foot{
+    padding-top: 28px;
+    padding-left: 100px;
+  }
+  
+  .map{
+    color: white;
+    padding-left: 10px;
+    padding-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  a:hover{
+    color: yellow;
+    cursor: pointer;
+  }
+  
+   a{
+    text-decoration: none;
+    color: white;
+   }
+  
+  .ome{
+    color: white;
+    margin-top: -7px;
+    margin-right: 100px;
+    padding-left: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .become{
+    color: white;
+    margin-top: 9px;
+    margin-right: 100px;
+    padding-left: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .about{
+    color: white;
+    margin-top: 15px;
+    margin-right: 100px;
+    padding-left: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .organi{
+    color: white;
+    margin-left: 240px;
+    margin-top: -195px;
+    padding-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .serv{
+    color: white;
+    margin-left: 240px;
+    margin-top: -37px;
+    padding-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .process{
+    color: white;
+    margin-left: 240px;
+    margin-top: -27px;
+    padding-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .contac{
+    color: white;
+    margin-left: 490px;
+    margin-top: -156px;
+    padding-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .call{
+    color: white;
+    margin-left: 490px;
+    margin-top: -37px;
+    padding-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .email-us{
+    color: white;
+    margin-left: 490px;
+    margin-top: -26px;
+    padding-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .whatsapp{
+    color: white;
+    margin-left: 490px;
+    margin-top: -19px;
+    padding-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .sub{
+  
+    margin-top: -156px;
+    margin-left: 990px;
+    padding-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+  }
+  
+  .emails{
+    width: 258px;
+    height: 41px;
+  }
+  
+  .subscribe {
+       
+    width: 265px;
+    height: 41px;
+    color: white;
+    background-color: red;
+    border: none;
+    margin-top: 10px;
+  }
+  
+  .last-logo{
+    display: flex;
+    margin-top: 80px;
+    margin-left: -980px;
+  }
+  
+  .socialdo{
+    display: flex;
+    color: white;
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: -50px;
+    margin-left: -730px;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

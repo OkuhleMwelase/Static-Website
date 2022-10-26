@@ -1,0 +1,355 @@
+body{
+    height: 1300px;
+    width: 99%;
+    background-color: rgb(253, 233, 233);
+}
+
+nav{
+    display: flex;
+    justify-content: end;
+    height: 80px;
+    width: 100%;
+    background-color: red;
+}
+
+ul{
+    display: flex;
+    list-style-type: none;
+    width: 90%;
+    justify-content: space-around;
+    padding: 10px;
+}
+
+li a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+}
+
+input{
+    position: relative;
+    width: 200px;
+    height: 35px;
+}
+
+.bg-pic{
+    display: flex;
+}
+
+.rectang{
+  margin-top: 55px;
+  margin-left: 350px;
+  height: 70px;
+  width: 749px;
+  background-color: rgb(218, 2, 2);
+}
+
+.pro{
+    font-size: xx-large;
+    font-weight: bold;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-left: 620px;
+    margin-top: -50px;
+    color: white;
+}
+
+form {
+  border-left: solid;
+  border-right: solid;
+  border-bottom: solid;
+  border-color: red;
+  width: 49.5%;
+  height: 650px;
+  padding-bottom: 10px;
+  margin-left: 350px;
+  margin-top: -18px;
+  background-color: rgb(254, 243, 243);
+}
+
+.whole{
+  margin-top: 25px;
+  margin-left: 35px;
+}
+
+.box{
+  width: 720px;
+  height: 200px;
+  background-color: rgb(252, 252, 252);
+  margin-left: 365px;
+  margin-top: -650px;
+  border: lightgrey 1px solid;
+}
+
+.box2{
+  width: 720px;
+  height: 430px;
+  background-color: rgb(252, 252, 252);
+  margin-left: 365px;
+  margin-top: 5px;
+  border: lightgrey 1px solid;
+}
+
+.girl-image{
+  margin-left: 40px;
+  padding-top: 25px;
+  padding-left: 15px;
+}
+
+.hername{
+  margin-top: -160px;
+  margin-left: 290px;
+  color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.herage{
+  margin-top: -6px;
+  margin-left: 290px;
+  color: rgb(133, 132, 132);
+}
+
+.fname{
+  width: 539px;
+  height: 40px;
+  padding-left: 15px;
+}
+
+.boxes{
+  margin-left: 50px;
+  margin-top: 85px;
+}
+
+.dob{
+  width: 230px;
+  height: 40px;
+  padding-left: 15px;
+}
+
+.bdd{
+  margin-left: 50px;
+  margin-top: 10px;
+}
+
+.gender{
+  width: 230px;
+  height: 40px;
+  padding-left: 15px;
+}
+
+.ccd{
+  margin-left: 360px;
+  margin-top: -65px;
+}
+
+
+.email{
+  width: 230px;
+  height: 40px;
+  padding-left: 15px;
+}
+
+.sbsb{
+   
+    margin-left: 50px;
+    margin-top: 10px;
+}
+
+.phone{
+  width: 230px;
+  height: 40px;
+  padding-left: 15px;
+}
+
+.xxx{
+  margin-left: 360px;
+  margin-top: -65px;
+}
+
+.address{
+  width: 539px;
+  height: 40px;
+  padding-left: 15px;
+}
+
+.bvbv{
+  margin-left: 50px;
+  margin-top: 10px;
+  padding-bottom: 20px;
+}
+
+/* ===edit button=== */
+.create{
+  width: 197px;
+  height: 41px;
+  margin-top: 40px;
+  margin-left: 270px;
+  color: white;
+  background-color: red;
+  padding: 10px;
+  border: none;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+/* ====================================================Footer, Fifth container========================================================= */
+
+.box-5{
+    background-color: rgb(212, 10, 10);
+    height: 439px;
+    width: 1505px;
+    margin-top: 80px;
+  }
+  
+  .foot{
+    padding-top: 28px;
+    padding-left: 100px;
+  }
+  
+  .map{
+    color: white;
+    padding-left: 10px;
+    padding-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  a:hover{
+    color: yellow;
+    cursor: pointer;
+  }
+  
+   a{
+    text-decoration: none;
+    color: white;
+   }
+  
+  .ome{
+    color: white;
+    margin-top: -7px;
+    margin-right: 100px;
+    padding-left: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .become{
+    color: white;
+    margin-top: 9px;
+    margin-right: 100px;
+    padding-left: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .about{
+    color: white;
+    margin-top: 15px;
+    margin-right: 100px;
+    padding-left: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .organi{
+    color: white;
+    margin-left: 240px;
+    margin-top: -195px;
+    padding-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .serv{
+    color: white;
+    margin-left: 240px;
+    margin-top: -37px;
+    padding-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .process{
+    color: white;
+    margin-left: 240px;
+    margin-top: -27px;
+    padding-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .contac{
+    color: white;
+    margin-left: 490px;
+    margin-top: -156px;
+    padding-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .call{
+    color: white;
+    margin-left: 490px;
+    margin-top: -37px;
+    padding-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .email-us{
+    color: white;
+    margin-left: 490px;
+    margin-top: -26px;
+    padding-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .whatsapp{
+    color: white;
+    margin-left: 490px;
+    margin-top: -19px;
+    padding-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .sub{
+  
+    margin-top: -156px;
+    margin-left: 990px;
+    padding-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+  }
+  
+  .emails{
+    width: 258px;
+    height: 41px;
+  }
+  
+  .subscribe {
+       
+    width: 265px;
+    height: 41px;
+    color: white;
+    background-color: red;
+    border: none;
+    margin-top: 10px;
+  }
+  
+  .last-logo{
+    display: flex;
+    margin-top: 80px;
+    margin-left: -980px;
+  }
+  
+  .socialdo{
+    display: flex;
+    color: white;
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: -50px;
+    margin-left: -730px;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+  

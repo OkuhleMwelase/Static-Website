@@ -1,0 +1,325 @@
+body{
+    height: 100%;
+    width: 99%;
+    background-color: rgb(253, 233, 233);
+}
+
+nav{
+    display: flex;
+    justify-content: end;
+    height: 80px;
+    width: 100%;
+    background-color: red;
+}
+
+ul{
+    display: flex;
+    list-style-type: none;
+    width: 90%;
+    justify-content: space-around;
+    padding: 10px;
+}
+
+li a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+}
+
+li a:hover {
+
+    color: yellow;
+    cursor: pointer;
+}
+
+.detail{
+    margin-top: 40px;
+    margin-left: 190px;
+    font-size: x-large;
+    color: red;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.line{
+    margin-top: -20px;
+    margin-right: 30px;
+    width: auto;
+}
+
+.main-table{
+    margin-left: 220px;
+    margin-top: 75px;
+    height: 350px;
+    width: 1000px;
+}
+
+.table, th, tr, td{
+    border: solid;
+    background-color: rgb(253, 233, 233);
+    border-collapse: collapse;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.th{
+    background-color: #00003e;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    border: black;
+}
+
+.td{
+    height: 60px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+}
+
+.table{
+    margin-left: 20px;
+    margin-top: 50px;
+    padding-left: 50px;
+}
+
+.name{
+    width: 250px;
+    height: 95px;
+}
+
+.age{
+    width: 100px;
+    padding-bottom: 5px;
+}
+
+.blood-t{
+    width: 100px;
+    padding-bottom: 5px;
+}
+
+.phone{
+    width: 170px;
+    padding-bottom: 5px;
+}
+
+.status{
+    width: 180px;
+    padding-bottom: 5px;
+}
+
+.action{
+    width: 200px;
+    padding-bottom: 5px;
+}
+
+.ash{
+    background-color: rgb(229, 229, 229);
+    padding-bottom: 5px;
+}
+
+.chri{
+    background-color: rgb(229, 229, 229);
+    padding-bottom: 5px;
+}
+
+.bheki{
+    background-color: rgb(229, 229, 229);
+    padding-bottom: 5px;
+}
+
+.buhle{
+    background-color: rgb(229, 229, 229);
+    padding-bottom: 5px;
+}
+
+.sizwe{
+    background-color: rgb(229, 229, 229);
+    padding-bottom: 5px;
+}
+
+.approve{
+    width: 75px;
+    height: 26px;
+    margin-left: 10px;
+    color: white;
+    background-color: rgb(3, 201, 3);
+    border: solid;
+    border-color: rgb(3, 201, 3);
+}
+
+.approve:hover{
+    opacity: 0.6;
+}
+
+.approve:active{
+    cursor: pointer;
+    opacity: 0.4;
+}
+
+.decline{
+    width: 75px;
+    height: 26px;
+    margin-left: 10px;
+    color: white;
+    background-color: rgb(211,28, 28);
+    border: solid;
+    border-color: rgb(211, 28, 28);
+}
+
+.decline:hover{
+    opacity: 0.6;
+}
+
+.decline:active{
+    cursor: pointer;
+    opacity: 0.4;
+}
+
+/* ====================================================Footer, Fifth container========================================================= */
+
+.box-5{
+    background-color: rgb(212, 10, 10);
+    height: 439px;
+    width: 1505px;
+    margin-top: 19px;
+  }
+  
+  .foot{
+    padding-top: 28px;
+    padding-left: 100px;
+  }
+  
+  .map{
+    color: white;
+    padding-left: 10px;
+    padding-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  a:hover{
+    color: yellow;
+    cursor: pointer;
+  }
+  
+   a{
+    text-decoration: none;
+    color: white;
+   }
+  
+  .ome{
+    color: white;
+    margin-top: -7px;
+    margin-right: 100px;
+    padding-left: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .become{
+    color: white;
+    margin-top: 9px;
+    margin-right: 100px;
+    padding-left: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .about{
+    color: white;
+    margin-top: 15px;
+    margin-right: 100px;
+    padding-left: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .organi{
+    color: white;
+    margin-left: 240px;
+    margin-top: -195px;
+    padding-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .serv{
+    color: white;
+    margin-left: 240px;
+    margin-top: -37px;
+    padding-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .process{
+    color: white;
+    margin-left: 240px;
+    margin-top: -27px;
+    padding-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .contac{
+    color: white;
+    margin-left: 490px;
+    margin-top: -156px;
+    padding-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .call{
+    color: white;
+    margin-left: 490px;
+    margin-top: -37px;
+    padding-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .email-us{
+    color: white;
+    margin-left: 490px;
+    margin-top: -26px;
+    padding-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .whatsapp{
+    color: white;
+    margin-left: 490px;
+    margin-top: -19px;
+    padding-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .sub{
+  
+    margin-top: -156px;
+    margin-left: 990px;
+    padding-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+  }
+  
+  .emails{
+    width: 258px;
+    height: 41px;
+  }
+  
+  .subscribe {
+       
+    width: 265px;
+    height: 41px;
+    color: white;
+    background-color: red;
+    border: none;
+    margin-top: 10px;
+  }
+  
+  .last-logo{
+    display: flex;
+    margin-top: 80px;
+    margin-left: -980px;
+  }
+  
+  .socialdo{
+    display: flex;
+    color: white;
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: -50px;
+    margin-left: -730px;
+  }

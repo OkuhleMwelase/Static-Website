@@ -1,0 +1,228 @@
+body{
+    height: 100%;
+    width: 99%;
+    background-color: rgb(253, 233, 233);
+}
+/* ==== Styling Navigation Bar & Its Contents ====*/
+nav{
+    display: flex;
+    justify-content: end;
+    height: 80px;
+    width: 100%;
+    background-color: red;
+}
+
+ul{
+    display: flex;
+    list-style-type: none;
+    width: 90%;
+    justify-content: space-around;
+    padding: 10px;
+}
+
+li a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+}
+
+li a:hover{
+    color: yellow;
+    cursor: pointer;
+}
+
+input{
+    position: relative;
+    width: 200px;
+    height: 35px;
+}
+/* === Background photo ===*/
+.bg-pic{
+    display: flex;
+}
+/* ======================== Styling First Contaner ===================*/
+.container{
+    height: 790px;
+    width: 87,5%;
+    background-color: rgb(253, 233, 233);
+    display: flex;
+    color: red;
+    text-align: justify;
+    font-size: 22pt;
+    font-weight: bold;
+    padding-top: 50px;
+    padding-left: 190px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* ======== Styling First Paragraph ========*/
+#text-blood{
+    color: black;
+    width: 69%;
+    text-align: justify;
+    font-size: large;
+    font-weight: normal;
+    width: 1070px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: -210px;
+    padding-top: 60px;
+}
+
+span{
+  color: red;
+}
+/* ======= Stylig First Photo ========*/
+#sanbs-pic{
+    margin-left: 190px;
+    margin-top: 345px;
+    padding-bottom: 120px;
+    width: 73%;
+}
+/* =============================Footer, last container================================ */
+.box-5{
+    background-color: rgb(212, 10, 10);
+    height: 435px;
+    width: auto;
+    margin-top: -50px;
+  }
+  
+  .foot{
+    padding-top: 28px;
+    padding-left: 100px;
+  }
+  
+  .map{
+    color: white;
+    padding-left: 10px;
+    padding-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  a:hover{
+    color: yellow;
+    cursor: pointer;
+  }
+  
+  a{
+    text-decoration: none;
+    color: white;
+  }
+
+  .ome{
+    color: white;
+    margin-top: -7px;
+    margin-right: 100px;
+    padding-left: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .become{
+    color: white;
+    margin-top: 9px;
+    margin-right: 100px;
+    padding-left: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .about{
+    color: white;
+    margin-top: 15px;
+    margin-right: 100px;
+    padding-left: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .organi{
+    color: white;
+    margin-left: 240px;
+    margin-top: -195px;
+    padding-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .serv{
+    color: white;
+    margin-left: 240px;
+    margin-top: -37px;
+    padding-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .process{
+    color: white;
+    margin-left: 240px;
+    margin-top: -27px;
+    padding-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .contac{
+    color: white;
+    margin-left: 490px;
+    margin-top: -156px;
+    padding-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .call{
+    color: white;
+    margin-left: 490px;
+    margin-top: -37px;
+    padding-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .email-us{
+    color: white;
+    margin-left: 490px;
+    margin-top: -26px;
+    padding-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .whatsapp{
+    color: white;
+    margin-left: 490px;
+    margin-top: -19px;
+    padding-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .sub{
+  
+    margin-top: -156px;
+    margin-left: 990px;
+    padding-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+  }
+  
+  .emails{
+    width: 258px;
+    height: 41px;
+  }
+  
+  .subscribe {
+       
+    width: 265px;
+    height: 41px;
+    color: white;
+    background-color: red;
+    border: none;
+    margin-top: 10px;
+  }
+  
+  .last-logo{
+    display: flex;
+    margin-top: 80px;
+    margin-left: -980px;
+  }
+  
+  .socialdo{
+    display: flex;
+    color: white;
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: -50px;
+    margin-left: -730px;
+  }

@@ -1,0 +1,450 @@
+body{
+    height: 100%;
+    width: 99%;
+    background-color: rgb(253, 233, 233);
+}
+
+nav{
+    display: flex;
+    justify-content: end;
+    height: 80px;
+    width: 100%;
+    background-color: red;
+}
+
+ul{
+    display: flex;
+    list-style-type: none;
+    width: 90%;
+    justify-content: space-around;
+    padding: 10px;
+}
+
+li a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+}
+
+li a:hover{
+    color: yellow;
+    cursor: pointer;
+}
+
+input{
+    position: relative;
+    width: 200px;
+    height: 35px;
+}
+
+.bg-pic{
+    display: flex;
+}
+
+.rectang{
+    margin-top: 60px;
+    margin-left: 350px;
+    height: 70px;
+    width: 750px;
+    background-color: rgb(218, 2, 2);
+}
+
+.admin1{
+    margin-top: -54px;
+    margin-left: 550px;
+    color: white;
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+.dpi{
+  padding-top: 25px;
+  margin-left: 88px;
+  font-size: x-large;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #00003e;
+}
+
+.pdi{
+  margin-top: -10px;
+  margin-left: 88px;
+  font-size: large;
+  font-weight: medium;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #00003e;
+}
+.thee-form{
+  padding-top: 1px;
+  margin-top: -304px;
+  margin-left: 30px;
+}
+
+form {
+    border-left: solid;
+    border-right: solid;
+    border-bottom: solid;
+    border-color: red;
+    width: 49.5%;
+    height: 790px;
+    padding-bottom: 10px;
+    margin-left: 350px;
+    margin-top: -16px;
+    background-color: rgb(254, 243, 243);
+}
+
+.the-form{
+    align-content: center;
+    margin-top: -440px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.fname{
+    width: 539px;
+    height: 40px;
+    padding-left: 15px;
+}
+
+.boxes{
+    margin-left: 390px;
+    margin-top: 60px;
+}
+
+.dob{
+    width: 210px;
+    height: 40px;
+    padding-left: 15px;
+}
+
+.bdd{
+    margin-left: 390px;
+    margin-top: 15px;
+}
+
+.gen{
+    width: 240px;
+    height: 30px;
+    
+}
+
+.nder{
+  margin-top: -92px;
+  
+}
+.ccd{
+  margin-left: 690px;
+  margin-top: 25px;
+}
+
+.form-inline{
+  border: 1px solid rgb(124, 124, 124);
+  background-color: white;
+  padding-left: 15px;
+  padding-bottom: 17px;
+  margin-left: -1px;
+  margin-top: 1px;
+  width: 243px;
+  height: 30px;
+}
+
+.form-inline label, .form-inline input{
+  display: inline-block;
+  width: auto;
+  padding-right: 15px;
+}
+
+.idnum{
+  width: 210px;
+  height: 40px;
+  padding-left: 15px;
+}
+
+.mmm{
+  margin-left: 390px;
+  margin-top: 10px;
+}
+
+.phone{
+    width: 243px;
+    height: 40px; 
+    padding-left: 15px;
+}
+
+.xxx{
+    margin-left: 689px;
+    margin-top: -63px;
+}
+
+.email{
+  width: 542px;
+  height: 40px;
+  padding-left: 15px;
+}
+
+.sbsb{
+   
+    margin-left: 390px;
+    margin-top: 10px;
+}
+
+
+.address{
+    width: 542px;
+    height: 40px;
+    padding-left: 15px;
+}
+
+.address2{
+  width: 542px;
+  height: 40px;
+  padding-left: 15px;
+}
+
+.szsz{
+   
+    margin-left: 390px;
+    margin-top: 10px;
+}
+
+.city{
+  height: 40px;
+  width: 210px;
+  padding-left: 15px;
+}
+
+.region{
+  width: 240px;
+  height: 40px;
+  padding-left: 15px;
+  display: flex;
+  margin-left: 690px;
+  margin-top: -53px;
+}
+
+.sszz{
+  display: flex;
+  margin-left: 390px;
+  margin-top: 15px;
+}
+
+.postal-code{
+  height: 40px;
+  width: 210px;
+  padding-left: 15px; 
+  margin-left: 410px;
+}
+
+.country{
+  height: 40px;
+  width: 240px;
+  padding-left: 15px; 
+  margin-left: 710px;
+}
+
+.count{
+  margin-top: -65px;
+}
+.ssbb{
+  display: flex;
+}
+
+.word{
+    width: 240px;
+    height: 30px; 
+}
+
+.pass{
+    margin-left: 390px;
+    margin-top: 60px;
+}
+
+.firm{
+    width: 240px;
+    height: 30px;
+    
+}
+
+.con{
+    margin-left: 760px;
+    margin-top: -55px;
+}
+/* ===Create button=== */
+.create{
+    width: 199px;
+    height: 41px;
+    margin-top: 34px;
+    margin-left: 610px;
+    color: white;
+    background-color: red;
+    border: none;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.ah{
+    margin-top: 10px;
+    margin-left: 620px;
+    font-size: small;
+}
+
+.pou{
+    margin-top: -15px;
+    margin-left: 760px;
+    color: rgb(0, 157, 210);
+    font-size: small;
+}
+
+.pou1{
+    text-decoration: none; 
+}
+
+/* ====================================================Footer, Fifth container========================================================= */
+
+.box-5{
+    background-color: rgb(212, 10, 10);
+    height: 439px;
+    width: 1505px;
+    margin-top: 90px;
+  }
+  
+  .foot{
+    padding-top: 28px;
+    padding-left: 100px;
+  }
+  
+  .map{
+    color: white;
+    padding-left: 10px;
+    padding-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  a:hover{
+    color: yellow;
+    cursor: pointer;
+  }
+  
+   a{
+    text-decoration: none;
+    color: white;
+   }
+  
+  .ome{
+    color: white;
+    margin-top: -7px;
+    margin-right: 100px;
+    padding-left: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .become{
+    color: white;
+    margin-top: 9px;
+    margin-right: 100px;
+    padding-left: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .about{
+    color: white;
+    margin-top: 15px;
+    margin-right: 100px;
+    padding-left: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .organi{
+    color: white;
+    margin-left: 240px;
+    margin-top: -195px;
+    padding-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .serv{
+    color: white;
+    margin-left: 240px;
+    margin-top: -37px;
+    padding-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .process{
+    color: white;
+    margin-left: 240px;
+    margin-top: -27px;
+    padding-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .contac{
+    color: white;
+    margin-left: 490px;
+    margin-top: -156px;
+    padding-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .call{
+    color: white;
+    margin-left: 490px;
+    margin-top: -37px;
+    padding-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .email-us{
+    color: white;
+    margin-left: 490px;
+    margin-top: -26px;
+    padding-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .whatsapp{
+    color: white;
+    margin-left: 490px;
+    margin-top: -19px;
+    padding-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .sub{
+  
+    margin-top: -156px;
+    margin-left: 990px;
+    padding-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+  }
+  
+  .emails{
+    width: 258px;
+    height: 41px;
+  }
+  
+  .subscribe {
+       
+    width: 265px;
+    height: 41px;
+    color: white;
+    background-color: red;
+    border: none;
+    margin-top: 10px;
+  }
+  
+  .last-logo{
+    display: flex;
+    margin-top: 80px;
+    margin-left: -980px;
+  }
+  
+  .socialdo{
+    display: flex;
+    color: white;
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: -50px;
+    margin-left: -730px;
+  }
